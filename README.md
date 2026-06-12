@@ -53,6 +53,7 @@
 * 📺 [Project Demo Video](#-project-demo-video)
 * 🤝 [Contributing & Feedback](#-contributing--feedback)
 * ⭐ [Show Your Support](#-show-your-support)
+* 👤 [Author & Contact](#-author--contact)
 
 ---
 
@@ -224,4 +225,42 @@ Contributions, suggestions, and feedback are highly welcome!
 
 ## ⭐ Show Your Support
 
-If you like **TrekFlow** and find it useful for travel planning, please consider giving this repository a star **⭐**! It keeps the developer motivated and helps others discover this project.
+<p align="center">
+  <strong>Love this tool? Help us grow:</strong>
+</p>
+
+```text
+✨ Star the repository     (GitHub Star Button)
+🐛 Report bugs             (GitHub Issues)
+💡 Suggest features        (GitHub Discussions)
+📢 Share with others       (LinkedIn/Twitter)
+🤝 Contribute code         (Pull Requests)
+```
+
+---
+
+## 👤 Author & Contact
+
+<h3 align="center">👨‍💻 Shlok Thorat</h3>
+
+<p align="center">
+  <em>Let's connect, collaborate, and build amazing things together!</em>
+</p>
+
+<p align="center">
+  <a href="mailto:shlok.thorat.cyb@ghrcem.raisoni.net" target="_blank">
+    <img src="https://img.shields.io/badge/Email-shlok.thorat.cyb%40ghrcem.raisoni.net-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/shlok926" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%40shlok926-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shlok-thorat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shlok--thorat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ for travel enthusiasts • <a href="#-trekflow">Back to Top</a>
+</p>
