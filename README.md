@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+  🚀 <a href="https://trekflow.streamlit.app/"><strong>Live App Demo</strong></a> • 
   ⚡ <a href="#-setup--installation">Quick Install</a> • 
   📖 <a href="#-project-structure">Project Architecture</a> • 
   📺 <a href="#-project-demo-video">Demo Video</a> • 
