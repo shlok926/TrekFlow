@@ -51,7 +51,8 @@
 * ⚙️ [Setup & Installation](#%EF%B8%8F-setup--installation)
 * 🔒 [Security & Encryption](#-security--encryption)
 * 📺 [Project Demo Video](#-project-demo-video)
-* 🤝 [Contributing](#-contributing)
+* 🤝 [Contributing & Feedback](#-contributing--feedback)
+* ⭐ [Show Your Support](#-show-your-support)
 
 ---
 
@@ -213,6 +214,14 @@ Watch the execution and walkthrough of the application:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Feedback
 
-Contributions are welcome! Please feel free to open a Pull Request or report issues to help make TrekFlow even better.
+Contributions, suggestions, and feedback are highly welcome!
+* **Got suggestions or feature requests?** Feel free to open a new [Issue](https://github.com/shlok926/TrekFlow/issues) or share your ideas.
+* **Want to contribute?** Feel free to fork this repository, make your changes, and submit a Pull Request.
+
+---
+
+## ⭐ Show Your Support
+
+If you like **TrekFlow** and find it useful for travel planning, please consider giving this repository a star **⭐**! It keeps the developer motivated and helps others discover this project.
