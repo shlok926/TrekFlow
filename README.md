@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://trekflow.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/TrekFlow-Open%20Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open TrekFlow App"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue?logo=python&logoColor=white" alt="Python Version"/>
   <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="UI Streamlit"/>
   <img src="https://img.shields.io/badge/AI-LangChain-green?logo=chainlink&logoColor=white" alt="AI LangChain"/>
