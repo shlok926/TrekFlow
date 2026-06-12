@@ -244,7 +244,7 @@ Contributions, suggestions, and feedback are highly welcome!
 <h3 align="center">👨‍💻 Shlok Thorat</h3>
 
 <p align="center">
-  <em>Let's connect, collaborate, and build amazing things together!</em>
+  <em>Let's connect on LinkedIn, collaborate, and build amazing things together!</em>
 </p>
 
 <p align="center">
