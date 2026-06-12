@@ -64,15 +64,36 @@
 ## 📸 Screenshots & Previews
 
 <p align="center">
-  <strong>🖥️ Interactive Web Dashboard</strong><br/>
-  <img src="assets/dashboard_screenshot.png" alt="TrekFlow Web Dashboard" width="90%"/>
+  <strong>🖥️ Home Dashboard</strong><br/>
+  <img src="assets/dashboard_home.png" alt="TrekFlow Home Dashboard" width="95%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <strong>📄 Exported PDF Travel Itinerary Preview</strong><br/>
-  <img src="assets/pdf_itinerary_preview.png" alt="TrekFlow PDF Itinerary Preview" width="90%"/>
+  <strong>✈️ Plan a New Adventure</strong><br/>
+  <img src="assets/plan_trip.png" alt="Plan a New Adventure" width="95%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>🗺️ Day-wise Itinerary & Interactive Route Map</strong><br/>
+  <img src="assets/trip_itinerary.png" alt="TrekFlow Trip Itinerary" width="95%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>🏨 Lodging & Travel Bookings</strong><br/>
+  <img src="assets/lodging_bookings.png" alt="Lodging & Travel Bookings" width="95%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>📄 Exported PDF Travel Itinerary Guide</strong><br/>
+  📂 <a href="assets/sample_itinerary.pdf"><strong>Download / View Sample Itinerary (PDF)</strong></a>
 </p>
 
 ---
