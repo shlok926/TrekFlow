@@ -248,14 +248,14 @@ Contributions, suggestions, and feedback are highly welcome!
 </p>
 
 <p align="center">
-  <a href="mailto:shlok.thorat.cyb@ghrcem.raisoni.net" target="_blank">
-    <img src="https://img.shields.io/badge/Email-shlok.thorat.cyb%40ghrcem.raisoni.net-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:Shlokthorat29075@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Shlokthorat29075%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/shlok926" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%40shlok926-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/shlok-thorat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-shlok--thorat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/shlok-thorat-39916a405/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shlok--thorat--39916a405-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
