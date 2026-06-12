@@ -38,6 +38,7 @@
 
 * 🎯 [Key Features at a Glance](#-key-features-at-a-glance)
 * ✨ [Core Capabilities](#-core-capabilities)
+* 📸 [Screenshots & Previews](#-screenshots--previews)
 * 🛠️ [Technology Stack](#%EF%B8%8F-technology-stack)
 * 📂 [Project Structure](#-project-structure)
 * ⚙️ [Setup & Installation](#%EF%B8%8F-setup--installation)
@@ -57,6 +58,22 @@
 | **Multilingual Engine** | Dynamic translation registry supporting English, Hindi, Spanish, French, German, Italian, Japanese, and Russian. |
 | **Situational Alerting** | Simulates and logs warnings regarding weather changes, local transit disruption, and custom eco-karma benchmarks. |
 | **Vault / Shield** | Secure database authentication coupled with cryptographic locker storage for personal safety documents. |
+
+---
+
+## 📸 Screenshots & Previews
+
+<p align="center">
+  <strong>🖥️ Interactive Web Dashboard</strong><br/>
+  <img src="assets/dashboard_screenshot.png" alt="TrekFlow Web Dashboard" width="90%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>📄 Exported PDF Travel Itinerary Preview</strong><br/>
+  <img src="assets/pdf_itinerary_preview.png" alt="TrekFlow PDF Itinerary Preview" width="90%"/>
+</p>
 
 ---
 
